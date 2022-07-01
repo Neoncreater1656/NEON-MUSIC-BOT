@@ -2,7 +2,7 @@ from NIXA.main import bot
 from pyrogram import filters
 
 
-OWNER = [5009839424 , 5180811178]
+OWNER = [5000908647 , 5180811178]
 sudos = [5137889730 , 5215873956]
 
 @bot.on_message(filters.command("info"))
